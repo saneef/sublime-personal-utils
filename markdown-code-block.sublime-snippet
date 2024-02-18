@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+```${1:js}
+${2}
+```
+]]></content>
+	<tabTrigger>b`</tabTrigger>
+	<scope>text.html.markdown</scope>
+</snippet>
+
